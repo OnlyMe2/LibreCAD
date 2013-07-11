@@ -1,16 +1,12 @@
 About LibreCAD
 ==============
 
-LibreCAD is a 2D CAD drawing tool based on the community edition of QCAD (www.qcad.org).
-LibreCAD has been re-structured and ported to qt4 and works natively cross platform between OSX, Windows and Linux.
-See http://www.librecad.org
+It a word, Librecad is crap.
 
 User Manual and wiki
 ------------------
 
-We are in the process of building a user manual and wiki:
-
-http://wiki.librecad.org/index.php/Main_Page
+Don't bother to even download it.
 
 UNIX and OSX users
 ------------------
